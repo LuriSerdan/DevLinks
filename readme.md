@@ -1,9 +1,6 @@
 <h1 align="center"> DevLinks </h1>
 
-<p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-<a href="https://github.com/LuriSerdan/DevLinks/assets/128061250/e8cc1223-49c5-4a0f-9aa2-5f782d59e9a6">Estude esse projeto em formato de vídeo clicando aqui.</a>
-</p>
+
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -19,7 +16,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="projeto DevLinks" src="https://github.com/LuriSerdan/DevLinks/assets/128061250/e8cc1223-49c5-4a0f-9aa2-5f782d59e9a6" width="100%">
 </p>
 
 ## 🚀 Tecnologias
