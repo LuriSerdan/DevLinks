@@ -82,7 +82,7 @@ body * {
 }
 
 .light #switch button {
-  animation: slide-in 0.4s forwards;
+  animation: slide-in 0.2s forwards;
 }
 
 #switch button:hover {
@@ -101,7 +101,6 @@ body * {
 }
 
 /*links*/
-
 ul {
   list-style: none;
 
@@ -116,12 +115,13 @@ ul li a {
   display: flex;
   align-items: center;
   justify-content: center;
+
   padding: 16px 24px;
 
   background: var(--surface-color);
   border: 1px solid var(--stroke-color);
-
   border-radius: 8px;
+
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
 
@@ -141,7 +141,9 @@ ul li a:hover {
 #social-links {
   display: flex;
   justify-content: center;
+
   padding: 24px 0;
+  
   font-size: 24px;
 }
 
